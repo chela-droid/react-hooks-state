@@ -56,7 +56,7 @@ internal state inside of our function component.
 import React, { useState } from "react";
 ```
 
-### Initializing State
+### Initializing State 
 
 Once we've imported the `useState` hook, we can call it inside of our component,
 like so:
